@@ -16,7 +16,7 @@ const CartContainer = () => {
      initial={{opacity: 0, x: 200}}
      animate={{opacity: 1, x: 0}}
      exit={{opacity: 0, x: 200}}
-    className='fixed top-0 z-[101] right-0  w-full md:w-375 h-screen bg-white drop-shadow-md flex flex-col'
+    className='fixed top-0 z-[101] right-0  w-full md:w-[520px] h-screen bg-white drop-shadow-md flex flex-col'
     >
         
         
